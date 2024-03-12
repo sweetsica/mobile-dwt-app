@@ -1,0 +1,9 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="16" height="16" fill="url(#pattern0)" style=""/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_933_28571" transform="scale(0.0078125)"/>
+</pattern>
+<image id="image0_933_28571" width="128" height="128" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAC6ElEQVR4nO3dzatMcRzH8XfkqW6JRHdlsrJSHq4UG3bkrsR/4P9gZ2Gl2Col1jYiSqGsScnG3WHjcsniehiL29RYTHPOmfl9z8z5vl91tnPOr8+7mWZ1QCUtA7eB18Aa8Aq4BSy1+VAqbw9wH+iPuH4D14BtbT2gyukBHxg9/vD1HFho5zFVQg9Yodr4RtAxTcY3go6YZHwjmHPTGH9wPQx+dk1omuMPrsuhJ1BjJcbvA9+AnYHnUAOlxh9cZ6IOsinqRh3SA54B+wve42jBz/6PAdQTMT7ArsKfrwZKf+0PXxeDzqSKIsfvAwdijqUqose/G3MsVRE9/kdgd8jJNFb0+N+BkyEn01htjH8q5GQay/ETc/zEHD8xx0/M8RNz/MQcPzHHT8zxE3P8xBw/McdPzPETc/zEHD8xx0/M8RNz/MQcPzHHT8zxE3P8xBw/McdPzPETc/zEHD8xx0/M8RNz/MQcPzHHT8zxE3P8xBw/McdPzPETc/zEHD8xx0/M8RPbCrzB8dO6iuOntRdYx/HTOofjz5zIdwZFvAjpB3AWeBFwr06IDGBzwD1+AT8D7qMGlon5CfgCHAk6k2pYBP5gBKldJ+5voBHMoB3Ae4wgtYNsvB3LCBIzAhmBjEC0E0HY69lVjRHICGQEwgiEEQgjEEYg4iNYxQhmjhGolQiOhZxMlRmBjEBGIIxAGIEwAmEEwghEOxEshZxMlRmBjEBGIIxAxEfwFSOYOUYgI5ARiHYiOB5yMlVmBDICGYEwAmEEwgiEEQgjEEYgjEDER7ACLIScTJVFR3Az5liqIzKCv8C+mGOpjsgIzgedKfSdQfPuHXAa+BRwr8MB9wAMoK6oCFYLf74mVPrn4ETcUdRUqQg+A9sDz6EJlIjgQugJNLFpRnAv+Nk1JdOI4BF+9c+1SSJ4jON3QpMInrDxPkV1RJ0InuL4nbQIPGD08OvAFWBLWw+oGJeAO8BbYA14CdwADrX5UMP+AZHeXpm+bcN2AAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
